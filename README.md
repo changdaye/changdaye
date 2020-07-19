@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Github：changdaye
 
 
-Don't be a programmer, Be a problem solver.
+This guy always thought he was a genius, but he was actually not much smarter than others.
 
 公众号：五彩的颜色
 
