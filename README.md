@@ -37,4 +37,4 @@ Don't be a programmer, Be a problem solver.
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+| [Blogs](http://blog.jetbrains.org.cn/) |[Games](https://steamcommunity.com/profiles/76561198143389950/)  | [Books](http://blog.jetbrains.org.cn/) | [Movies](http://blog.jetbrains.org.cn/) |
