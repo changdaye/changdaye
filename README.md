@@ -26,7 +26,7 @@ Don't be a programmer, Be a problem solver.
 
 - 📫 How to reach me:
     - :octocat: [Github@changdaye](https://github.com/changdaye)
-    - :email: [mrchang@jetbrains.org.cn](mrchang@jetbrains.org.cn)
+    - :email: [mrchang@jetbrains.org.cn](mailto:mrchang@jetbrains.org.cn)
 
 - :computer: PC/Mac:
 
