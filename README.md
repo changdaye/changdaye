@@ -1,7 +1,7 @@
-### Hi there 🤔
+### Hi there 👋 Welcome to my GitHub!
 
 <!--
-**changdaye/changdaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itgoyo/itgoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,11 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+名字：常先生
+
+Github：changdaye
+
+
+Don't be a programmer, Be a problem solver.
+
+公众号：五彩的颜色
+
+- 📫 How to reach me:
+    - :octocat: [Github@changdaye](https://github.com/changdaye)
+    - :email: [mrchang@jetbrains.org.cn](mrchang@jetbrains.org.cn)
+
+- :computer: PC/Mac:
+
+    - MacBookPro2016
+    - i7-6700k 32G 256SSD+4T RX590 MacOS Catalina 10.15.6
+    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.6
+
+
+| :pencil2: | :video_game: | :book: |:clapper:  |
+| --- | --- | --- | --- |
+| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
