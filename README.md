@@ -31,8 +31,8 @@ This guy always thought he was a genius, but he was actually not much smarter th
 - :computer: PC/Mac:
 
     - MacBookPro2016
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Catalina 10.15.6
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.6
+    - i5-10400k 32G 256SSD+1T RX590 MacOS Catalina 10.15.6
+    - i7-9700K  64G 1TSSD RX570 MacOS Catalina 10.15.6
 
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
