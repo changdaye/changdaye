@@ -1,7 +1,77 @@
-### Hi there 👋 Welcome to my GitHub!
+[![](https://count.getloli.com/get/@:changdaye)](https://count.getloli.com/)
+
+#### Platform&Tools
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/iPhone-XS-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
+
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.com/)
+[![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
+[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+
+#### Console&Game
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
+```text
+JavaScript 🕓 3h28m ███████████████████▉░░░░░░░░ 71.2%
+HTML       🕓 35m   ███▍░░░░░░░░░░░░░░░░░░░░░░░░ 12.2%
+LESS       🕓 24m   ██▎░░░░░░░░░░░░░░░░░░░░░░░░░  8.3%
+JSON       🕓 8m    ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.0%
+Git Config 🕓 7m    ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.6%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+```text
+🔫 Counter-Strike: Global Offensive  🕘 3 hrs 4 mins
+🔫 Insurgency                        🕘 3 hrs 1 mins
+🔫 Fistful of Frags                  🕘 2 hrs 18 mins
+🎮 Juicy Realm                       🕘 0 hrs 43 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/journey-ad/steam-box)
+
+</td>
+</tr>
+</table>
 
 <!--
-**itgoyo/itgoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,27 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-名字：常先生
-
-Github：changdaye
-
-
-This guy always thought he was a genius, but he was actually not much smarter than others.
-
-公众号：五彩的颜色
-
-- 📫 How to reach me:
-    - :octocat: [Github@changdaye](https://github.com/changdaye)
-    - :email: [mrchang@jetbrains.org.cn](mailto:mrchang@jetbrains.org.cn)
-
-- :computer: PC/Mac:
-
-    - MacBookPro2016
-    - i5-10400k 32G 256SSD+1T RX590 MacOS Catalina 10.15.6
-    - i7-9700K  64G 1TSSD RX570 MacOS Catalina 10.15.6
-
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](http://blog.jetbrains.org.cn/) |[Games](https://steamcommunity.com/profiles/76561198143389950/)  | [Books](http://blog.jetbrains.org.cn/) | [Movies](http://blog.jetbrains.org.cn/) |
