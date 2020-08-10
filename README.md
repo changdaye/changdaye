@@ -14,6 +14,8 @@
 [![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
 
 #### Knowledge&Skill
+[![](https://img.shields.io/badge/-Java-EE82EE?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh_CN/)
+[![](https://img.shields.io/badge/-Mysql-cb3837?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/cn/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.com/)
