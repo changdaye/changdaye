@@ -1,4 +1,4 @@
-[![](https://count.getloli.com/get/@:changdaye)](https://count.getloli.com/)
+[![](https://count.getloli.com/get/@:changdaye?theme=konachan)](https://count.getloli.com/)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
