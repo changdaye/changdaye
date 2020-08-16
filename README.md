@@ -1,4 +1,4 @@
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=changdaye&show_icons=true&hide_border=true)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=changdaye&show_icons=true&hide_border=false)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
