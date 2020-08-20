@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
+
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=changdaye&show_icons=true&hide_border=false&count_private=true)
 
 
