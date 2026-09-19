@@ -1,48 +1,71 @@
+# Hi there, I'm Lawrence (@changdaye) 👋
 
-#### Platform&Tools
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-IntelliJ%20Idea-blue?style=flat-square&logo=intelliJ-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/Tool-DataGrip-blue?style=flat-square)](https://www.jetbrains.com/datagrip/)
-[![](https://img.shields.io/badge/Tool-Redis%20Desktop%20Manager-blue?style=flat-square)](https://redisdesktop.com/)
+Software Developer & Builder focusing on **Serverless Architecture**, **AI/LLM Automation**, **Financial Market Intelligence**, and **Developer Tooling**.
 
-[![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/iPhone-X-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
+---
 
-#### Knowledge&Skill
-[![](https://img.shields.io/badge/-Java-EE82EE?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh_CN/)
-[![](https://img.shields.io/badge/-Mysql-cb3837?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/cn/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.com/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+### 🛠️ Tech Stack & Focus Areas
 
-#### Console&Game
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198143389950/)
+- **Languages:** TypeScript / JavaScript, Go, Python, Java, SQL
+- **Serverless & Cloud:** Cloudflare Workers, D1, KV, Queues, Workers AI, Astro
+- **AI & Automation:** LLM Workflows, OpenAI API / Codex Integration, Automated News/Market Monitoring, Feishu Bot Webhooks
+- **Tooling & Platforms:** Linux / macOS, Docker, Git, Chrome Extensions, Android Kiosk
 
+---
 
-<!--
-**journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured & Categorized Projects
 
-Here are some ideas to get you started:
+#### ⚡ Serverless & Market Intelligence (Cloudflare Workers + 飞书)
+> 定时抓取、大模型智能提炼并推送到飞书的全天候无服务器自动化工作流
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [douyin-feishu-watcher-worker](https://github.com/changdaye/douyin-feishu-watcher-worker) - 基于 Workers + Queues + D1 的抖音博主作品更新定时监控与飞书推送 `[TypeScript]`
+- [taoguba-hot-topics-worker](https://github.com/changdaye/taoguba-hot-topics-worker) - 淘股吧热帖监控与 Workers AI 社区热度简报生成 `[TypeScript]`
+- [a-share-margin-sentiment-worker](https://github.com/changdaye/a-share-margin-sentiment-worker) - A 股两融全市场情绪监测与 Workers AI 每日收盘飞书日报 `[TypeScript]`
+- [jinshi-market-brief-worker](https://github.com/changdaye/jinshi-market-brief-worker) - 金十公开快讯抓取与宏观财经中文简报生成 `[TypeScript]`
+- [market-conclusion-watch-worker](https://github.com/changdaye/market-conclusion-watch-worker) - 整合多源投研报告生成市场研判与操作动作的高阶深夜日报 `[TypeScript]`
+- [portfolio-valuation-watch-worker](https://github.com/changdaye/portfolio-valuation-watch-worker) - 投资组合核心板块估值与宏观观察日报 `[TypeScript]`
+- [reddit-stocks-digest-worker](https://github.com/changdaye/reddit-stocks-digest-worker) - Reddit r/stocks 美股热门讨论 AI 摘要与飞书推送 `[TypeScript]`
+- [trump-truth-social-digest-worker](https://github.com/changdaye/trump-truth-social-digest-worker) - 特朗普 Truth Social 动态定时抓取与中文简报推送 `[TypeScript]`
+
+#### 🤖 AI, LLM & API Quota Utilities
+> 围绕 Codex、CPA 及大语言模型生态打造的配额查询、监控与增强工具
+
+- [cpausage-cli](https://github.com/changdaye/cpausage-cli) - 基于 CPA 接口的账号配额批量查询与终端报表命令行工具 `[Go]` ⭐
+- [cliproxy-feishu-monitor-worker](https://github.com/changdaye/cliproxy-feishu-monitor-worker) - 基于 Cloudflare Workers 的 Codex / CLIProxyAPI 账号配额与 Token 用量监控 `[TypeScript]`
+- [cliproxy-feishu-monitor](https://github.com/changdaye/cliproxy-feishu-monitor) - CLIProxyAPI 常驻监控守护服务，带心跳检测与飞书报警 `[Go]`
+- [openai-cpa](https://github.com/changdaye/openai-cpa) - 基于 FastAPI 的 OpenAI CPA 账号与代理管理控制台 `[FastAPI / JS]`
+- [codex-tts](https://github.com/changdaye/codex-tts) - 面向 Codex CLI 的本地语音交互包装器，自动监听 rollout 流并 TTS 朗读 `[Python]`
+
+#### 📈 Financial Analysis & Personal Finance
+> 投资辅助、组合穿透与个人财务数字化
+
+- [etf-penetration-tool](https://github.com/changdaye/etf-penetration-tool) - ETF 底层持仓一键穿透分析工具，支持 Excel/JSON 与成分股重叠度计算 `[Python]`
+- [bill-aggregator](https://github.com/changdaye/bill-aggregator) - 微信与支付宝账单聚合分析平台，支持原生账单导入、分类与预算分析 `[TypeScript]`
+- [reddit-stocks-translator](https://github.com/changdaye/reddit-stocks-translator) - 专用于 Reddit r/stocks 美股板块的双语对照自动翻译 Chrome 扩展 `[JavaScript]`
+
+#### 🎙️ Text-to-Speech & Reader CLI
+> 本地优先、专注长文阅读的终端文本转语音工具集
+
+- [tts-cli](https://github.com/changdaye/tts-cli) - 中文优先的本地文本/Markdown 转语音命令行工具，支持 Edge-TTS 等免费后端 `[Python]`
+- [reader-tts](https://github.com/changdaye/reader-tts) - 在终端中直接朗读 Markdown 文档的轻量 CLI `[JavaScript]`
+
+#### 🖥️ Smart Screen & Hardware Display
+> 带屏音箱、中控屏幕与智能设备定制看板
+
+- [newapi-monitor](https://github.com/changdaye/newapi-monitor) - 8 英寸中控带屏音箱深度定制的财经行情、宏观事件与 Token 监控 Kiosk 工作台 `[HTML/JS]`
+- [pingbao-screensaver](https://github.com/changdaye/pingbao-screensaver) - Android 全屏中控仪表盘与屏保应用 `[Java]`
+- [tencent-dingdang-photo-frame](https://github.com/changdaye/tencent-dingdang-photo-frame) - 腾讯叮当刷机后的纯浏览器电子相册看板 `[TypeScript]`
+
+#### ✍️ Knowledge Base & Content
+- [changdaye-blog-worker](https://github.com/changdaye/changdaye-blog-worker) - 基于 Astro + Cloudflare Workers 重构的个人中文技术博客 `[Astro]`
+- [changdaye.github.io](https://github.com/changdaye/changdaye.github.io) - 早期技术博客归档 (GitHub Pages) `[Jekyll]`
+- [xiaoshuo](https://github.com/changdaye/xiaoshuo) - 科幻长篇小说《静默穹顶》设定集与手稿创作仓库
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=changdaye&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changdaye&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
